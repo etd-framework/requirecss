@@ -1,0 +1,9 @@
+{
+  "name": "etdsolutions/requirecss",
+  "description": "Shim repository for require-css",
+  "homepage": "https://github.com/guybedford/require-css",
+  "license": "MIT",
+  "require": {
+    "etdsolutions/requirejs": "*"
+  }
+}
